@@ -79,6 +79,21 @@ education:
       - Machine Learning
       - Advanced ML
       - Deep Learning
+  - area: MA in Philosophy
+    institution: Indira Gandhi National Open University (IGNOU)
+    date_start: 2020-10-31
+    date_end: 2022-12-31
+    summary: |
+      Courses included:
+      - Human Philosophy
+      - Epistemology
+      - Logic, Ethics
+      - Indian Philosophy
+      - Western Philosophy
+      - Human Brain & Mind
+      - Science & Cosmology 
+      - Spirituality
+      - Aurobindo
   - area: B.Tech Mechanical Engineering
     institution: National Institute of Technology, Calicut
     date_start: 2015-06-01
